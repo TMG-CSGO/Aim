@@ -1,0 +1,44 @@
+"GameModes_Server.txt"
+{
+	"gameTypes"
+	            {
+					"classic"
+				           {
+							   "gameModes"
+						                {
+						                     "casual"
+											{
+						                    	"maxplayers" "19"
+						                    	"exec"
+						                    	  {
+						                    	"exec"	"gamemode_aim_server.cfg"
+						                    	  }
+						                    	"mapgroupsMP"						
+						                    	  {
+						                    	"mg_public_se" 	""
+						                    	  }
+						                    }
+						                }
+				           }
+	            }
+	"mapgroups"
+	{
+		"mg_public_se"									
+		{
+			"name"			"mg_public_se"
+			"maps"
+			{
+				"awp_lego_2011"		"1"
+				"awp_lego_2018"		"2"
+				"aim_crazyjump"		"3"
+				"aim_usp_2018"		"4"
+				"aim_ak47_fullbordad"   "5"
+				"aim_deagle7k"		"6"
+				"aim_redline"		"7"
+		    }	
+		}
+		
+	}
+}
+
+
