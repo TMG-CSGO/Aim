@@ -1,5 +1,5 @@
 #include <updater>
-#define UPDATE_URL "https://raw.githubusercontent.com/alix1383/Aim/main/addons/sourcemod/updatefile-Aim.txt"
+#define UPDATE_URL "https://raw.githubusercontent.com/TMG-CSGO/Aim/main/addons/sourcemod/updatefile-Aim.txt"
 public Plugin myinfo = 
 {
 	name = "auto updater",
